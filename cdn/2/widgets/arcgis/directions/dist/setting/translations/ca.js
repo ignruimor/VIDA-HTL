@@ -1,1 +1,0 @@
-System.register([],(function(t){return{execute:function(){t({selectMapWidget:"Seleccioneu un widget de mapa",routeSettings:"Configuració de ruta",searchSettings:"Configuració de cerca",routeUrl:"URL de la ruta",outputStops:"Parades",outputRoute:"Ruta",outputDirectionPoints:"Punts d'indicació",outputDirectionLines:"Línies d'indicació"})}}}));

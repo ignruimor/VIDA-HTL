@@ -1,1 +1,0 @@
-System.register([],(function(t){return{execute:function(){t({selectMapWidget:"Välj en kartwidget",routeSettings:"Ruttinställningar",searchSettings:"Sökinställningar",routeUrl:"Rutt-URL",outputStops:"Stopp",outputRoute:"Rutt",outputDirectionPoints:"Riktningspunkter",outputDirectionLines:"Riktningslinjer"})}}}));
