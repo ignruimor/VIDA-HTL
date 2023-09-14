@@ -1,1 +1,0 @@
-System.register([],(function(e){return{execute:function(){e({selectMapWidget:"Valige kaardividin",routeSettings:"Marsruudi seaded",searchSettings:"Otsingu seaded",routeUrl:"Marsruudi URL",outputStops:"Peatused",outputRoute:"Marsruut",outputDirectionPoints:"Teejuhise punktid",outputDirectionLines:"Teejuhise jooned"})}}}));

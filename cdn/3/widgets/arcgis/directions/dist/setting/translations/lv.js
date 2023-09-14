@@ -1,1 +1,0 @@
-System.register([],(function(t){return{execute:function(){t({selectMapWidget:"Atlasīt kartes logrīku",routeSettings:"Maršruta iestatījumi",searchSettings:"Meklēšanas iestatījumi",routeUrl:"Maršruta vietrādis (URL)",outputStops:"Pieturas",outputRoute:"Maršruts",outputDirectionPoints:"Virziena punkti",outputDirectionLines:"Virziena līnijas"})}}}));

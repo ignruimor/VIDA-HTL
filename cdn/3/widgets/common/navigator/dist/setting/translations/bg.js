@@ -1,1 +1,0 @@
-System.register([],(function(e){return{execute:function(){e({_widgetLabel:"Изгледи на навигация",tabStyle:"Стил на раздела",navBtnStyle:"Стил на бутон за навигация",stepTips:"Работи само когато е зададена анимация за преход за съответния изпълним модул за раздел."})}}}));

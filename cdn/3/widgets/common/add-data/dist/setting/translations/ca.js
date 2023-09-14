@@ -1,1 +1,0 @@
-System.register([],(function(e){return{execute:function(){e({wayOfAddingData:"Mètode per afegir dades",selectFromAccount:"Seleccioneu des del compte",inputUrl:"URL d'entrada",uploadFiles:"Puja els fitxers",emptyListMessage:"Missatge de llista buida",defaultPlaceholderText:"Actualment, no hi ha dades afegides."})}}}));
